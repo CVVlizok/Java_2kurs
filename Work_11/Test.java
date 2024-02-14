@@ -7,6 +7,7 @@ public class Test {
     public Test(){}
 
     public static void main(String[] args) {
+        int test;
         SimpleDateFormat sdf = new SimpleDateFormat("MMMM yyyy dd HH:mm:ss");
         Calendar cal = Calendar.getInstance();
         cal.set(Calendar.YEAR,2002);
