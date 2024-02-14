@@ -6,6 +6,7 @@ import java.util.Date;
 public class Work1 {
     public static void main(String[] args) {
         String secondName = "Golovanev";
+        int test;
 //        Класс Date так же определен в пакете
 //        java.sql
         // Дата и время сдачи задания
