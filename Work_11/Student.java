@@ -8,7 +8,7 @@ public class Student implements Comparable<Student>{
     private String secondName;
     private int id;
     private double GPA;
-
+    int test;
     private String group;
     private String course;
     private String special;
