@@ -1,7 +1,7 @@
 package Work_7;
 
 public interface Movable {
-    public int Test3;
+    public int test;
     public void MoveUp();
     public void MoveDown();
     public void MoveLeft();
